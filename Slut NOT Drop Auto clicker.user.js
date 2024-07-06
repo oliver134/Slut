@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Slut NOT Drop
-// @version      2.0
+// @version      3.0
 // @description  AutoClicker for Slut TON Drop
 // @author       Emin M @emin.mir
 // @homepage     https://t.me/crypto_world_aze
