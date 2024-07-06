@@ -5,7 +5,7 @@
 // @author       Emin M @emin.mir
 // @homepage     https://t.me/crypto_world_aze
 // @match        https://zapn.digital/*
-// @icon         https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRBfD3Vv-jzGzJ9M_UBA9K-XqS7bG_VfhqNnbOyViPJhl-pLCP
+// @icon         https://raw.githubusercontent.com/oliver134/slut/main/Slut.jpeg
 // @downloadURL  https://github.com/oliver134/slut/raw/main/Slut NOT Drop Auto clicker.user.js
 // @updateURL    https://github.com/oliver134/slut/raw/main/Slut NOT Drop Auto clicker.user.js
 // @grant        none
